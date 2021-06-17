@@ -1,6 +1,7 @@
 //postfix-x : NEMA 23 motor driver params
 //postfix-y:  NEMA 17 motor driver params
 //Accelerated start, abrupt end
+//Arduino-MEGA
 
 #define enx 12    
 #define eny 7
